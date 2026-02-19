@@ -148,7 +148,7 @@ body {
 }
 
 .item .img5 {
-    width: 200px;
+    width: 210px;
     height: 200px;
 }
 
@@ -163,15 +163,128 @@ body {
 
 .therd-section {
     width: 100%;
+    height: auto;
     padding: 0px;
     margin: 0px;
-    flex-direction: column;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 50px 50px;
+    background-color: #E5E7EB;
+    padding-bottom: 100px;
+    padding-top: 100px;
+
 }
 
-.content-3 {
-    background-color: #0054fb;
+.main-para {
+    color: #454242;
+    font-size: 24px;
+    padding-top: 20px;
+    max-width: 600px;
+    text-align: center;
+}
+
+.sec-para {
+    width: 600px;
+    font-size: 21px;
+    text-align: right;
+    font-weight: bold;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+.fourth-section {
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.fourth-section .contner-blue {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    background-color: #3B82F6;
+    padding: 40px 100px;
+    border-radius: 10px;
+    margin: 0px;
+    flex-wrap: wrap;
+}
+
+.contner-blue {
+    display: flex;
+    color: white;
+    background-color: #3B82F6;
+    padding: 20px 20px;
+    border-radius: 10px;
+    margin: 0px;
+    gap: 12px;
+}
+
+.contner-blue h2,
+.contner-blue p {
+    margin: 0px;
+    padding: 0px;
+}
+
+.text-section {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+
+
+.btn-sign-up {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.btn-sign-up .sign-up {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    padding: 8px 20px;
+    font-size: 15px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+
+
+
+
+.footer {
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+.footer p {
+    color: #D1D5DB;
+    font-size: 14px;
+    margin: 0px;
 }

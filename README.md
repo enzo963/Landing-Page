@@ -27,7 +27,6 @@ Welcome to this **Landing Page project**! This is a simple, clean, and modern la
 
 - HTML5
 - CSS3 (Flexbox for layout)
-- Responsive design principles
 
 ---
 

@@ -4,7 +4,7 @@ Welcome to this **Landing Page project**! This is a simple, clean, and modern la
 
 ---
 
-## 🖌 Features
+##  Features
 
 - **Hero Section:**  
   A bold introduction with a call-to-action button to engage visitors.
@@ -23,14 +23,14 @@ Welcome to this **Landing Page project**! This is a simple, clean, and modern la
 
 ---
 
-## ⚡ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3 (Flexbox for layout)
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository:
 
